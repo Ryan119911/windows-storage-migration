@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\ExampleUser\\AppData\\Roaming\\ExampleApp",
+  "destination": "D:\\AppDataMigration\\ExampleApp",
+  "recovery_root": "D:\\MigrationRecovery\\ExampleApp",
+  "approved_existing_backups": [],
+  "policy": {
+    "conflicts": "stop",
+    "cleanup_source_backup": false
+  },
+  "processes": {
+    "main_names": ["ExampleApp"],
+    "blocked_executable_roots": ["C:\\Program Files\\ExampleApp"],
+    "helpers": []
+  }
+}

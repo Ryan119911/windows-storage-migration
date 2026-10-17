@@ -1,0 +1,3 @@
+interface:
+  display_name: "Windows 空间迁移与缓存清理"
+  short_description: "核实目录占用，校验迁移应用数据并保留原路径，安全清理缓存与旧副本"
